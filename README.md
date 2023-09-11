@@ -1,1 +1,1 @@
-# elte-python-2023
+# ELTE Python 2023
