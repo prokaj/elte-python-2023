@@ -1,1 +1,1 @@
-# ELTE Python 2023
+# ELTE Python gyakorlat 2023
